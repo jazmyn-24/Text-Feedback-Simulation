@@ -2,7 +2,7 @@
   "name": "text-feedback-simulation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jazmyn-24.github.io/text-feedback-simulation",
+  "homepage": "https://jazmyn-24.github.io/Text-Feedback-Simulation",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
