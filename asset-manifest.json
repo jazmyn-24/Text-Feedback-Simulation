@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/text-feedback-simulation/static/css/main.f9670b78.css",
-    "main.js": "/text-feedback-simulation/static/js/main.104abeea.js",
-    "static/js/453.4c04b7e7.chunk.js": "/text-feedback-simulation/static/js/453.4c04b7e7.chunk.js",
-    "index.html": "/text-feedback-simulation/index.html",
-    "main.f9670b78.css.map": "/text-feedback-simulation/static/css/main.f9670b78.css.map",
-    "main.104abeea.js.map": "/text-feedback-simulation/static/js/main.104abeea.js.map",
-    "453.4c04b7e7.chunk.js.map": "/text-feedback-simulation/static/js/453.4c04b7e7.chunk.js.map"
+    "main.css": "/Text-Feedback-Simulation/static/css/main.f9670b78.css",
+    "main.js": "/Text-Feedback-Simulation/static/js/main.14ee36ef.js",
+    "static/js/453.4c04b7e7.chunk.js": "/Text-Feedback-Simulation/static/js/453.4c04b7e7.chunk.js",
+    "index.html": "/Text-Feedback-Simulation/index.html",
+    "main.f9670b78.css.map": "/Text-Feedback-Simulation/static/css/main.f9670b78.css.map",
+    "main.14ee36ef.js.map": "/Text-Feedback-Simulation/static/js/main.14ee36ef.js.map",
+    "453.4c04b7e7.chunk.js.map": "/Text-Feedback-Simulation/static/js/453.4c04b7e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9670b78.css",
-    "static/js/main.104abeea.js"
+    "static/js/main.14ee36ef.js"
   ]
 }
